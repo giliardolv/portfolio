@@ -5,7 +5,7 @@
     padding: 0;
 }
 :root{
-    --cor-primaria: #000000;
+    --cor-primaria: #030712;
     --cor-secundaria: #f6f6f6;
     --cor-terciaria: #22d4fd;
     --cor-hover: #272727;
@@ -102,7 +102,7 @@ body{
     padding: 24px;
 }
 
-@media( max-width: 1200px){
+@media( max-width: 1000px){
     .cabecalho{
         padding: 10% 0;
     }
